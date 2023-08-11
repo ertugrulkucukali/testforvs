@@ -1,1 +1,2 @@
-//main dosyasý
+//main dosyasý 
+//ilk deðiþiklik
